@@ -2,7 +2,8 @@
 
 This document is mostly meant as an introduction but instead of a picture of me,
 I thought it will be more useful to go a bit deeper on who I am and how I work. There are still few
-words [on my personal life](https://github.com/mmrazik/mmrazik/FunAndLife.md) if you are interested.
+words [on my personal life](https://github.com/mmrazik/mmrazik/blob/master/FunAndLife.md) if you
+are interested.
 
 
 ## What I value most
