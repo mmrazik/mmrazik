@@ -10,7 +10,7 @@ pr:
 - master
 
 pool:
-  name: default
+  name: windows-2019
 
 steps:
 - script: echo Hello, world!
