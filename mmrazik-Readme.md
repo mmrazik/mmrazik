@@ -86,3 +86,5 @@ bloggers (Eric Sink, Paul Graham)
     stories on how far dedication and focus can take you. Came to this because triathlon is one of my
     more recent passions but the stories go beyond triathlon.
  * The usual -- Hacker News, bunch of twitter accounts.
+
+
